@@ -1,4 +1,7 @@
-# test coverage for  [discord-dj (v0.0.5)](https://github.com/Guichaguri/DiscordDJ#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord-dj.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord-dj) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord-dj.svg)](https://travis-ci.org/npmtest/node-npmtest-discord-dj)
+# npmtest-discord-dj
+
+#### test coverage for  [discord-dj (v0.0.5)](https://github.com/Guichaguri/DiscordDJ#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord-dj.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord-dj) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord-dj.svg)](https://travis-ci.org/npmtest/node-npmtest-discord-dj)
+
 #### Discord DJ Bot. Let you play music in your server. Inspired by PlugDJ
 
 [![NPM](https://nodei.co/npm/discord-dj.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/discord-dj)
